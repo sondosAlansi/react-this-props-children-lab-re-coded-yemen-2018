@@ -8,7 +8,7 @@ export default class Invitation extends React.Component {
         <h2>{this.props.children}</h2>
         </div>
       );
-    );
+  
 
 
   }
